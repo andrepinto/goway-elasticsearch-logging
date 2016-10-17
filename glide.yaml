@@ -1,0 +1,3 @@
+package: github.com/andrepinto/goway-elasticsearch-logging
+import:
+- package: gopkg.in/olivere/elastic.v2
